@@ -66,7 +66,7 @@ var app = new Vue({
     },
     data(){
         return { 
-          CONTRACT_ADDRESS : 'TPUe35qTJMfo8yni4nTh35pP7bHz4iAioa',
+          CONTRACT_ADDRESS : 'TNSfgSELPHBUXDFhUS1s7KsVoctte7QXjL',
           wallet : null,
           investements : [],
           totalInvested : 0,
